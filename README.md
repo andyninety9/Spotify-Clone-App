@@ -1,8 +1,10 @@
 # Spotify-Clone-App-LearningProject
-[Spotify-Cone-App]([https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.0](https://spotify-clone-app-55d51.web.app/#))
 This is a Spotify clone web application built using ReactJS library, Tailwind CSS, Context, Formik, Yup, axios, React Router, MaterialUI, and the Spotify API. The application allows users to search for and play their favorite songs, create playlists, and listen to recommended songs based on their listening habits.
 
 <img width="1680" alt="Screenshot 2023-05-09 at 09 28 09" src="https://user-images.githubusercontent.com/114195582/236982974-35009db5-f667-49cf-8281-5da792a690c2.png">
+
+## Link Demo App:
+[Spotify-Cone-App](https://spotify-clone-app-55d51.web.app/#)
 
 ## Features
 - User authentication with Spotify
